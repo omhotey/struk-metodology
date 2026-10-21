@@ -29,3 +29,6 @@
 
 
 Первая читательская редакция: [вики СТРУК](wiki/index.md), [карта статей](wiki/contents.md). Поручение — [R037](governance/sources/REQUEST-R037.md); [редакционные основания и проверка](research/STRUK-WIKI-EDITORIAL-R037.md). Это wiki-draft-1 для авторской редакции; публикация не выполнена.
+
+
+Размещение на WordPress: [проверка BetterDocs и способ переноса R038](integrations/BETTERDOCS/PUBLISHING-PLAN.md). Карта 16 статей подготовлена; указанный локальный MCP требует авторизации, записи на сайт не выполнялись.
