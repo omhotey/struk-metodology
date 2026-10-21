@@ -1,13 +1,13 @@
 {
   "format": "struk-betterdocs-import-plan/1",
-  "status": "prepared_not_imported",
+  "status": "imported_as_drafts",
   "source_edition": "wiki-draft-1",
   "target": {
     "base_url": "http://localhost:8080",
     "site_name_observed": "WordPress Lab",
     "mcp_endpoint": "http://localhost:8080/betterdocs/mcp",
-    "mcp_auth_status": "401_connection_token_missing",
-    "mcp_tools_schema_verified": false,
+    "mcp_auth_status": "OAuth_authorized",
+    "mcp_tools_schema_verified": true,
     "post_type": "docs",
     "rest_base": "/wp-json/wp/v2/docs"
   },
@@ -1145,5 +1145,6 @@
         }
       ]
     }
-  ]
+  ],
+  "latest_receipt": "IMPORT-RECEIPT-R039.json"
 }
