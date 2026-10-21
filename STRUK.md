@@ -20,3 +20,5 @@
 Обмен со владельцами Product Lead и Контура — по [единому протоколу R033](integrations/METHODS/PROTOCOL.md). STRUK сохраняет свою универсальную область; подключение Контура к проекту определяется отдельным явным поручением.
 
 Подключение к Codex и подготовка ChatGPT — [R034](integrations/METHODS/DEPLOYMENT.md); фактические проверки и предел облачной установки — [отчёт](research/METHODS-INTEGRATION-R034.md).
+
+Целостная персонализация текущего приложения — [R035: полная инструкция](integrations/METHODS/USER-INSTRUCTIONS.md) и [сверка изменений](research/USER-INSTRUCTIONS-REVIEW-R035.md). Короткий переносимый текст R034 не заменяет существующий AGENTS.md.
