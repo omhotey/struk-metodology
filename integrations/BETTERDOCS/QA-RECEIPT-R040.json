@@ -1,0 +1,182 @@
+{
+  "schema": "struk-betterdocs-draft-check/1",
+  "checked_at": "2026-10-21T18:01:15.872981+00:00",
+  "status": "drafts_restored_visual_qa_blocked",
+  "before": {
+    "publish": 16
+  },
+  "after": {
+    "draft": 16,
+    "publish": 0,
+    "unauthenticated_rest_docs": 0
+  },
+  "content_unchanged": true,
+  "content_links": 209,
+  "anchors": 92,
+  "link_target_errors": [],
+  "visual_desktop_checked": false,
+  "visual_mobile_checked": false,
+  "toc_clicks_checked": false,
+  "documents": [
+    {
+      "id": 42,
+      "title": "О методологии и авторе",
+      "before_status": "publish",
+      "after_status": "draft",
+      "content_sha256": "7c42862d98b88ac1d08d9501e6c5db7c14f47cb5b6ffb0674def21b894de3781",
+      "content_unchanged": true,
+      "links": 10,
+      "anchor_count": 4
+    },
+    {
+      "id": 43,
+      "title": "Карта вики СТРУК",
+      "before_status": "publish",
+      "after_status": "draft",
+      "content_sha256": "477324c33df460a012f4ad1ae10e896f8c7b0860385470f2eb1b274c82d83dfa",
+      "content_unchanged": true,
+      "links": 25,
+      "anchor_count": 5
+    },
+    {
+      "id": 44,
+      "title": "СТРУК в работе с ИИ",
+      "before_status": "publish",
+      "after_status": "draft",
+      "content_sha256": "29bcb6f7203542428a8cd3ae5e41d7e0eee99daaf3f9ef3cc97973abcdda9e24",
+      "content_unchanged": true,
+      "links": 8,
+      "anchor_count": 5
+    },
+    {
+      "id": 45,
+      "title": "СТРУК в повседневной жизни",
+      "before_status": "publish",
+      "after_status": "draft",
+      "content_sha256": "05c53cf7d1a1a9592435112e81f36efaf50dde731fdfe4cacd99b4be17002138",
+      "content_unchanged": true,
+      "links": 9,
+      "anchor_count": 3
+    },
+    {
+      "id": 46,
+      "title": "Примеры применения СТРУК",
+      "before_status": "publish",
+      "after_status": "draft",
+      "content_sha256": "1fea6494db34df2b80cdc70f50785fc1236fd6a811aa7aa52fee8508e414f199",
+      "content_unchanged": true,
+      "links": 11,
+      "anchor_count": 2
+    },
+    {
+      "id": 47,
+      "title": "СТРУК в совместной работе",
+      "before_status": "publish",
+      "after_status": "draft",
+      "content_sha256": "b55fa95f51d399f178db1792a3eda04004823cd7c3d863a9b2f3d5368c78ed0b",
+      "content_unchanged": true,
+      "links": 7,
+      "anchor_count": 6
+    },
+    {
+      "id": 48,
+      "title": "Вопросы о СТРУК",
+      "before_status": "publish",
+      "after_status": "draft",
+      "content_sha256": "4595f5d6dcc13ddfb48ae21014e52cbd7b0472fb40a2a2ef758b5cc57efd1eee",
+      "content_unchanged": true,
+      "links": 15,
+      "anchor_count": 12
+    },
+    {
+      "id": 49,
+      "title": "Контроль",
+      "before_status": "publish",
+      "after_status": "draft",
+      "content_sha256": "ecc391532af9b8591828662ffdaf9dcba78af2a7827b3fe5572e0a05b0931bdd",
+      "content_unchanged": true,
+      "links": 14,
+      "anchor_count": 5
+    },
+    {
+      "id": 50,
+      "title": "Решение",
+      "before_status": "publish",
+      "after_status": "draft",
+      "content_sha256": "9d8c2397909626453c65976721d84d9651a354826b04c76fdeca6c25845d3981",
+      "content_unchanged": true,
+      "links": 11,
+      "anchor_count": 5
+    },
+    {
+      "id": 51,
+      "title": "Управление",
+      "before_status": "publish",
+      "after_status": "draft",
+      "content_sha256": "f87097b6f19c11ddc3e5f1cc0d7cc2dc7ee9bd783e2103024d74930a07001298",
+      "content_unchanged": true,
+      "links": 14,
+      "anchor_count": 5
+    },
+    {
+      "id": 52,
+      "title": "Требования",
+      "before_status": "publish",
+      "after_status": "draft",
+      "content_sha256": "ddc6f93f7bdd6ee5f42d961d313306a17b6709ec3e8273ebb88bb23de5024127",
+      "content_unchanged": true,
+      "links": 16,
+      "anchor_count": 5
+    },
+    {
+      "id": 53,
+      "title": "Ситуация",
+      "before_status": "publish",
+      "after_status": "draft",
+      "content_sha256": "3d1bfa6d9b12574dbc5bdeb4c412ce4df3a5a4bf9cd6a04c255399192407d0fd",
+      "content_unchanged": true,
+      "links": 12,
+      "anchor_count": 5
+    },
+    {
+      "id": 54,
+      "title": "Словарь СТРУК",
+      "before_status": "publish",
+      "after_status": "draft",
+      "content_sha256": "f675ddf43ee54bb75e650c4538882d6eba39a48d12bd5a9406c754fb365092f6",
+      "content_unchanged": true,
+      "links": 20,
+      "anchor_count": 13
+    },
+    {
+      "id": 55,
+      "title": "СТРУК как способ мыслить и действовать",
+      "before_status": "publish",
+      "after_status": "draft",
+      "content_sha256": "05e874aa8bf65c5fa1babd00fcf4a9807a1bd4bf281ec239a3ac54186199a3c1",
+      "content_unchanged": true,
+      "links": 12,
+      "anchor_count": 4
+    },
+    {
+      "id": 56,
+      "title": "Как связаны функции СТРУК",
+      "before_status": "publish",
+      "after_status": "draft",
+      "content_sha256": "87e781ff27cc6ff64edc4f31d36851e075ce2343d8feab767a485f8c8d4afeb9",
+      "content_unchanged": true,
+      "links": 11,
+      "anchor_count": 6
+    },
+    {
+      "id": 57,
+      "title": "Как применить СТРУК к своей задаче",
+      "before_status": "publish",
+      "after_status": "draft",
+      "content_sha256": "7590e8cf9ba7bf15f61825de06dbb74637cad24ee59fd61288fdbb94a8ab0e8c",
+      "content_unchanged": true,
+      "links": 14,
+      "anchor_count": 7
+    }
+  ]
+}

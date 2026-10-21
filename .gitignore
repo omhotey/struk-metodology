@@ -123,3 +123,7 @@
 !/integrations/BETTERDOCS/IMPORT-REPORT-R039.md
 
 !/governance/sources/REQUEST-R039.md
+
+# R040: только проверка черновиков и её квитанция, без OAuth и исходных ответов MCP.
+!/integrations/BETTERDOCS/QA-REPORT-R040.md
+!/integrations/BETTERDOCS/QA-RECEIPT-R040.json
