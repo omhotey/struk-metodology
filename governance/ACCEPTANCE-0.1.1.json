@@ -1,0 +1,171 @@
+{
+  "version": "0.1.1",
+  "status": "accepted_as_working_basis",
+  "accepted_by": "Юрий Струк",
+  "accepted_event_date": "2026-10-19",
+  "accepted_event_timezone": "Europe/Moscow",
+  "recorded_by": "codex",
+  "recorded_at": "2026-10-19T10:18:24Z",
+  "source_id": "S61",
+  "decision_id": "STRUK-LOCAL-036",
+  "source_path": "governance/sources/ACCEPTANCE-R017.md",
+  "scope": "Integrated manual STRUK method, tools, business processes, practice records and handoff at system/v0.1",
+  "direct_statement": "Принимаю версию 0.1.1 как рабочую основу.",
+  "baseline": {
+    "receipt_path": "governance/DELIVERY-R016.json",
+    "receipt_sha256": "56a6c1542b22fc025964ba08bf1044f11ba9083cc37237291da6dda16f5bd3e5",
+    "receipt_files_verified_before_registration": 22,
+    "kit_files_verified_against_R015_R016": 15
+  },
+  "files": [
+    {
+      "path": "system/v0.1/BUSINESS.md",
+      "accepted_sha256": "263270f160c531d55bf998cf98c430967cef5fda739ea753209461fbf6123711",
+      "registered_sha256": "0ca7aadeb4c0bb5bbff44b50f47136303f2c2b41965c70166ca46f111017892f",
+      "accepted_bytes": 27204,
+      "registered_bytes": 27242,
+      "registration_change": "status_and_current_navigation_only"
+    },
+    {
+      "path": "system/v0.1/CURRENT.md",
+      "accepted_sha256": "55fbf48892840833609162b6346ec7ebebdabd561a2949cc03a0c06a38f036b6",
+      "registered_sha256": "f3272ca0d29bae8c59ca8df21b85be7b92a005afd811c5332308678496dcfaea",
+      "accepted_bytes": 4368,
+      "registered_bytes": 5014,
+      "registration_change": "status_and_current_navigation_only"
+    },
+    {
+      "path": "system/v0.1/EVOLUTION.md",
+      "accepted_sha256": "6b65206c561b2b4c0ed0681ccd5f403f2aea41967750c58493b50679d5188f23",
+      "registered_sha256": "84965bbab139142f6ef325b28eeab0dbb18bb9f923aeb271b45c05f831ab3bdf",
+      "accepted_bytes": 4205,
+      "registered_bytes": 4315,
+      "registration_change": "status_and_current_navigation_only"
+    },
+    {
+      "path": "system/v0.1/EXPERT.md",
+      "accepted_sha256": "33244be1147db1334f7ee11bdb88e0b6d1ddda03f263c3fbca78c2f9c22b0997",
+      "registered_sha256": "33244be1147db1334f7ee11bdb88e0b6d1ddda03f263c3fbca78c2f9c22b0997",
+      "accepted_bytes": 7758,
+      "registered_bytes": 7758,
+      "registration_change": "none"
+    },
+    {
+      "path": "system/v0.1/HANDOFF.md",
+      "accepted_sha256": "9f37f1394b5eb265692670efe1e1b43eb0ba6c8893e3b65e85a38c94ca6fdfeb",
+      "registered_sha256": "9f37f1394b5eb265692670efe1e1b43eb0ba6c8893e3b65e85a38c94ca6fdfeb",
+      "accepted_bytes": 9538,
+      "registered_bytes": 9538,
+      "registration_change": "none"
+    },
+    {
+      "path": "system/v0.1/METHOD.md",
+      "accepted_sha256": "966e6ac155d2bfa416ea8633e178c3580fca0e52ce4060a837c2764bcf0cc8b0",
+      "registered_sha256": "a33a69c1948d806be69ff3d2028142ea61d0cf28e99fa56c7fad51530e86e577",
+      "accepted_bytes": 16287,
+      "registered_bytes": 16333,
+      "registration_change": "status_and_current_navigation_only"
+    },
+    {
+      "path": "system/v0.1/START.md",
+      "accepted_sha256": "af717d1b3019c8def9976d95b99bbe3978241feed12f1b14898dd13f1dfa142b",
+      "registered_sha256": "ba67e22dfc46d126bccaeb1d1bb022197d9e97ec28ffba3a0993f1ba3fd3f055",
+      "accepted_bytes": 9708,
+      "registered_bytes": 9930,
+      "registration_change": "status_and_current_navigation_only"
+    },
+    {
+      "path": "system/v0.1/TOOLS.md",
+      "accepted_sha256": "8765abfbab3c3a91b947a0c5078381b06301231bf90917665dd1ca73711460cd",
+      "registered_sha256": "3785c66569be1f827947a939f36163a3e0fc23b7d2cf41e8cb7aa8d12bf0689e",
+      "accepted_bytes": 22855,
+      "registered_bytes": 22921,
+      "registration_change": "status_and_current_navigation_only"
+    },
+    {
+      "path": "system/v0.1/VALIDATION.md",
+      "accepted_sha256": "0460052bafdbe9c52345807fb7e200edf81a92fd4d0356f6c52cd5f39d93201b",
+      "registered_sha256": "0460052bafdbe9c52345807fb7e200edf81a92fd4d0356f6c52cd5f39d93201b",
+      "accepted_bytes": 11104,
+      "registered_bytes": 11104,
+      "registration_change": "none"
+    },
+    {
+      "path": "system/v0.1/examples/DEMO-001/INPUT.md",
+      "accepted_sha256": "46a3f390911cc3c0f43759621bdda8591e4a735f88a596e7ec4faf66490f4381",
+      "registered_sha256": "46a3f390911cc3c0f43759621bdda8591e4a735f88a596e7ec4faf66490f4381",
+      "accepted_bytes": 7267,
+      "registered_bytes": 7267,
+      "registration_change": "none"
+    },
+    {
+      "path": "system/v0.1/examples/DEMO-001/TRANSFER-RESULT.md",
+      "accepted_sha256": "b693936d83190a4c39107a9d92374503ce1f92e992c996f4959df9edf7fc96df",
+      "registered_sha256": "b693936d83190a4c39107a9d92374503ce1f92e992c996f4959df9edf7fc96df",
+      "accepted_bytes": 23989,
+      "registered_bytes": 23989,
+      "registration_change": "none"
+    },
+    {
+      "path": "system/v0.1/examples/DEMO-001/WORKED.md",
+      "accepted_sha256": "643717189cc31c07e6218766b03aec52a127c879dd038b4ce6b584fd3142c261",
+      "registered_sha256": "643717189cc31c07e6218766b03aec52a127c879dd038b4ce6b584fd3142c261",
+      "accepted_bytes": 20904,
+      "registered_bytes": 20904,
+      "registration_change": "none"
+    },
+    {
+      "path": "system/v0.1/templates/LESSON.md",
+      "accepted_sha256": "155192a95c352f5b956983c68905651b6137685dbcbb4dfbf08859909064e1d7",
+      "registered_sha256": "155192a95c352f5b956983c68905651b6137685dbcbb4dfbf08859909064e1d7",
+      "accepted_bytes": 2070,
+      "registered_bytes": 2070,
+      "registration_change": "none"
+    },
+    {
+      "path": "system/v0.1/templates/PRACTICE.md",
+      "accepted_sha256": "1075828c920b634056ef3b92de96d77d534015a46facb512b46b01d82f469556",
+      "registered_sha256": "e0d1c89817c7e22579f456b2fa9fe2df9a7a326963bab892f4b6aa7253227796",
+      "accepted_bytes": 18527,
+      "registered_bytes": 18610,
+      "registration_change": "status_and_current_navigation_only"
+    },
+    {
+      "path": "system/v0.1/templates/WORK.md",
+      "accepted_sha256": "b155d4e523ceb7d395d132682d28e7798e43c48dce84e4d64ad3ab38b6bc81a3",
+      "registered_sha256": "b155d4e523ceb7d395d132682d28e7798e43c48dce84e4d64ad3ab38b6bc81a3",
+      "accepted_bytes": 13500,
+      "registered_bytes": 13500,
+      "registration_change": "none"
+    }
+  ],
+  "registration": {
+    "semantic_method_changes": false,
+    "version_increment": false,
+    "description": "Only approval status, source/plan links and current proposed next action updated. Old hashes bind the accepted content; registered hashes include these administrative edits.",
+    "changed_kit_files": [
+      "system/v0.1/BUSINESS.md",
+      "system/v0.1/CURRENT.md",
+      "system/v0.1/EVOLUTION.md",
+      "system/v0.1/METHOD.md",
+      "system/v0.1/START.md",
+      "system/v0.1/TOOLS.md",
+      "system/v0.1/templates/PRACTICE.md"
+    ]
+  },
+  "open_parts_plan": "methodology/DEVELOPMENT-PLAN-R017.md",
+  "development_plan_source_id": "S62",
+  "development_plan_status": "proposed_by_codex",
+  "validation_status": {
+    "author_working_basis_acceptance": true,
+    "actual_usefulness_proven": false,
+    "actual_economics_proven": false,
+    "cold_start_transfer_proven": false,
+    "full_real_client_cycle_T15_proven": false
+  },
+  "scope_limits": [
+    "Historical OS, 8+8 and experimental formulas are not blanket approved",
+    "No real client, SMART, external contact, site or runtime actions authorized by this registration",
+    "Future substantive revisions need their own grounds, checks and acceptance"
+  ]
+}

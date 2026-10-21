@@ -1,0 +1,16 @@
+# Сохранять байты принятого комплекта: хеши относятся к файлам на диске.
+system/v0.1/BUSINESS.md -text
+system/v0.1/CURRENT.md -text
+system/v0.1/EVOLUTION.md -text
+system/v0.1/EXPERT.md -text
+system/v0.1/HANDOFF.md -text
+system/v0.1/METHOD.md -text
+system/v0.1/START.md -text
+system/v0.1/TOOLS.md -text
+system/v0.1/VALIDATION.md -text
+system/v0.1/examples/DEMO-001/INPUT.md -text
+system/v0.1/examples/DEMO-001/TRANSFER-RESULT.md -text
+system/v0.1/examples/DEMO-001/WORKED.md -text
+system/v0.1/templates/LESSON.md -text
+system/v0.1/templates/PRACTICE.md -text
+system/v0.1/templates/WORK.md -text
