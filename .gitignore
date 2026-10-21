@@ -60,3 +60,8 @@
 !/instruments/templates/DIRECTION-ASSESSMENT-R030.md
 !/research/COUNCIL-10-ROLES-R030.md
 !/governance/sources/REQUEST-R030.md
+
+# R033: только источник и единый протокол взаимодействия.
+!/integrations/METHODS/
+!/integrations/METHODS/PROTOCOL.md
+!/governance/sources/REQUEST-R033.md
