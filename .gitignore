@@ -65,3 +65,12 @@
 !/integrations/METHODS/
 !/integrations/METHODS/PROTOCOL.md
 !/governance/sources/REQUEST-R033.md
+
+# R034: проверенные материалы подключения и адаптер владельца PL.
+!/integrations/METHODS/CODEX-ROUTING.md
+!/integrations/METHODS/CHATGPT-INSTRUCTIONS.txt
+!/integrations/METHODS/CHATGPT-PACKAGE.md
+!/integrations/METHODS/DEPLOYMENT.md
+!/governance/sources/REQUEST-R034.md
+!/research/METHODS-INTEGRATION-R034.md
+!/methodology/PRODUCT-LEAD-ADAPTER.md
