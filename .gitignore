@@ -86,3 +86,26 @@
 !/governance/sources/REQUEST-R036.md
 
 !/research/STRUK-LIFE-SCOPE-R036.md
+
+# R037: только перечисленные читательские статьи вики и редакционные основания.
+!/wiki/
+!/wiki/functions/
+!/wiki/examples/
+!/wiki/index.md
+!/wiki/start.md
+!/wiki/principles.md
+!/wiki/functions/situation.md
+!/wiki/functions/requirements.md
+!/wiki/functions/decision.md
+!/wiki/functions/management.md
+!/wiki/functions/control.md
+!/wiki/examples/index.md
+!/wiki/examples/everyday.md
+!/wiki/examples/work.md
+!/wiki/examples/ai.md
+!/wiki/glossary.md
+!/wiki/faq.md
+!/wiki/about.md
+!/wiki/contents.md
+!/governance/sources/REQUEST-R037.md
+!/research/STRUK-WIKI-EDITORIAL-R037.md
