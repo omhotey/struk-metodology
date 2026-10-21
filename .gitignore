@@ -1,0 +1,27 @@
+# Локальный Git: только перечисленные файлы STRUK. Остальное исключено.
+# Новые файлы не попадают в Git автоматически; сначала проверить содержимое.
+*
+!/governance/
+!/integrations/
+!/research/
+!/skills/
+!/governance/sources/
+!/integrations/PRODUCT-LEAD/
+!/skills/struk/
+!/skills/struk/agents/
+!/skills/struk/references/
+!/.gitignore
+!/AGENTS.md
+!/STRUK.md
+!/governance/INTAKE.md
+!/governance/sources/REQUEST-R029.md
+!/governance/sources/REQUEST-R031.md
+!/governance/sources/REQUEST-R032.md
+!/integrations/PRODUCT-LEAD/PROTOCOL.md
+!/research/STRUK-SETUP-R032.md
+!/skills/struk/SKILL.md
+!/skills/struk/agents/openai.yaml
+!/skills/struk/references/goal-check.md
+!/skills/struk/references/improvement.md
+!/skills/struk/references/methodology.md
+!/skills/struk/references/system-instruction.md
