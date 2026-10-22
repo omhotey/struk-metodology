@@ -2,31 +2,19 @@
   "wordpress_id": 81,
   "post_type": "post",
   "status": "draft",
-  "title": "С.Т.Р.У.К. — способ мыслить и действовать",
-  "edit_url": "http://localhost:8080/wp-admin/post.php?post=81&action=edit",
-  "preview_url": "http://localhost:8080/?p=81&preview=true",
+  "title": "С.Т.Р.У.К.: как не потерять задачу за выполненной работой",
   "source_id": "struk-site-post",
-  "source_sha256": "ccd08296ad255b44f713dca90026a9f78a4615fe202310bd0ed8ff40ca1d4341",
-  "saved_content_sha256": "65e34c9663a6b9400e42c4f2885a071c18a3dbf85bb907ac63d05a907f83ef47",
+  "source_sha256": "cb2b591c76a551940c3febe1b8814f9ba1c0020a2ce2258552365a672a853d8c",
+  "saved_content_sha256": "576d29dd3ef8d8a4630cc9800b03c237e4a21a4864a74e48c6d545f9020d4e9b",
   "saved_content_matches": true,
-  "core_block_count": 30,
+  "core_block_count": 33,
   "categories": [
     1
   ],
   "dedicated_category_created": false,
-  "checked_at": "2026-10-22T22:47:32.213694+03:00",
+  "rendered_word_sequence_matches": true,
   "site": "http://localhost:8080",
   "source_path": "site/struk/post.md",
-  "heading_anchors": [
-    "с-ситуация-что-происходит",
-    "т-требования-что-должно-получиться",
-    "р-решение-как-этого-добиться",
-    "у-управление-выполнить-и-вести-дело",
-    "к-контроль-что-получилось",
-    "в-работе-и-с-ии",
-    "как-применять-без-лишней-сложности"
-  ],
-  "visual_checked": false,
   "full_source_files_preserved": [
     {
       "path": "wiki/about.md",
@@ -91,6 +79,28 @@
     {
       "path": "wiki/start.md",
       "sha256": "dd24cfab215d07e885b925f4fb40415545e959688e82802774261432d485e7ca"
+    }
+  ],
+  "edit_url": "http://localhost:8080/wp-admin/post.php?post=81&action=edit",
+  "preview_url": "http://localhost:8080/?p=81&preview=true",
+  "heading_anchors": [
+    "где-теряется-смысл-работы",
+    "сначала-обстоятельства-и-нужное-изменение",
+    "от-решения-до-исполнения",
+    "по-чему-судить-о-результате",
+    "та-же-логика-за-пределами-работы",
+    "с-чего-начать-в-своём-деле"
+  ],
+  "visual_checked": false,
+  "edition": "site-draft-2",
+  "checked_at": "2026-10-22T23:15:28.020234+03:00",
+  "previous_editions": [
+    {
+      "edition": "site-draft-1",
+      "title": "С.Т.Р.У.К. — способ мыслить и действовать",
+      "source_sha256": "ccd08296ad255b44f713dca90026a9f78a4615fe202310bd0ed8ff40ca1d4341",
+      "saved_content_sha256": "65e34c9663a6b9400e42c4f2885a071c18a3dbf85bb907ac63d05a907f83ef47",
+      "commit": "cd4cd03"
     }
   ]
 }
