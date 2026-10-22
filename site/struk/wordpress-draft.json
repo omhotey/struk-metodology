@@ -4,13 +4,15 @@
   "status": "draft",
   "title": "Методология С.Т.Р.У.К. — способ мыслить и действовать",
   "source_id": "struk-site-post",
-  "source_sha256": "149087ae8435e0f02233d6bcf08d56ed83a5720e4434bd06105731d353f09b8e",
-  "saved_content_sha256": "b03ce4d19830aea3f3fc264ac1e702f288f6dd48aa6765bb955d3ddb5aa36095",
+  "source_sha256": "34eed2af6f2c65754330367c31a83eaae970266121fc3ed72b2a4baec291fea2",
+  "saved_content_sha256": "8945afdee6c03970a59fb70608b56171ca6c5a2d0edf94d067944a302bfed6cb",
   "saved_content_matches": true,
   "core_block_counts": {
-    "core/paragraph": 49,
+    "core/paragraph": 57,
     "core/heading": 17,
     "core/table": 3,
+    "core/group": 3,
+    "core/quote": 3,
     "core/list": 1,
     "core/list-item": 5
   },
@@ -108,10 +110,10 @@
     "послесловие-автора"
   ],
   "visual_checked": false,
-  "edition": "site-draft-6",
+  "edition": "site-draft-7",
   "rendered_word_sequence_matches": true,
   "rendered_table_count": 3,
-  "checked_at": "2026-10-23T00:36:34.506531+03:00",
+  "checked_at": "2026-10-23T00:49:23.310383+03:00",
   "previous_editions": [
     {
       "edition": "site-draft-1",
@@ -151,10 +153,26 @@
       "saved_content_sha256": "57d0220585e8e82e524dfa021e4d50fa6e90250b2cc27f5349e12b99c0fc992c",
       "commit": "1f0371f",
       "author_response": "R047: добавить согласованные вступление и послесловие; основной текст неизменен; примеры учебные; без значения фамилии"
+    },
+    {
+      "edition": "site-draft-6",
+      "title": "Методология С.Т.Р.У.К. — способ мыслить и действовать",
+      "source_sha256": "149087ae8435e0f02233d6bcf08d56ed83a5720e4434bd06105731d353f09b8e",
+      "saved_content_sha256": "b03ce4d19830aea3f3fc264ac1e702f288f6dd48aa6765bb955d3ddb5aa36095",
+      "main_content_unchanged": true,
+      "preserved_main_content_sha256": "57d0220585e8e82e524dfa021e4d50fa6e90250b2cc27f5349e12b99c0fc992c",
+      "main_markdown_unchanged": true,
+      "preserved_main_markdown_sha256": "011975e1367bc6820659f0aba67f1b431cf66197a7604bcd2118fe39a26223ea",
+      "commit": "733e38f",
+      "author_response": "R048: разрешены редактура переходов/повторов, согласование лопаты, цитаты и места для иллюстраций; методические положения сохранить"
     }
   ],
-  "main_content_unchanged": true,
-  "preserved_main_content_sha256": "57d0220585e8e82e524dfa021e4d50fa6e90250b2cc27f5349e12b99c0fc992c",
-  "main_markdown_unchanged": true,
-  "preserved_main_markdown_sha256": "011975e1367bc6820659f0aba67f1b431cf66197a7604bcd2118fe39a26223ea"
+  "illustration_slots": [
+    "functions-map",
+    "goal-check",
+    "product-routes"
+  ],
+  "rendered_quote_count": 3,
+  "rendered_illustration_slot_count": 3,
+  "illustrations_created": false
 }
