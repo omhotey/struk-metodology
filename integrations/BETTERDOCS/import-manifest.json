@@ -15,7 +15,8 @@
     "create_as": "draft",
     "existing_match": "stop_and_review_before_update",
     "resolve_links": "use_actual_created_post_permalinks_after_create",
-    "automatic_publish": false
+    "automatic_publish": false,
+    "category_assignment": "immediate_category_only_do_not_add_ancestor"
   },
   "categories": [
     {
@@ -1146,5 +1147,32 @@
       ]
     }
   ],
-  "latest_receipt": "IMPORT-RECEIPT-R039.json"
+  "latest_receipt": "IMPORT-RECEIPT-R039.json",
+  "navigation": {
+    "nested_subcategory": true,
+    "category_title_link": true,
+    "section_order": [
+      "struk-start",
+      "struk-method",
+      "struk-functions",
+      "struk-examples",
+      "struk-author"
+    ],
+    "function_order": [
+      "struk-situation",
+      "struk-requirements",
+      "struk-decision",
+      "struk-management",
+      "struk-control"
+    ],
+    "source_report": "NAVIGATION-R041.md"
+  },
+  "current_local_deployment": {
+    "observed_on": "2026-10-22",
+    "status": "publish",
+    "article_count": 16,
+    "authorized_by": "Yuri explicit reply in R041",
+    "scope": "localhost:8080 only",
+    "editorial_status": "wiki-draft-1"
+  }
 }

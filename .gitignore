@@ -127,3 +127,6 @@
 # R040: только проверка черновиков и её квитанция, без OAuth и исходных ответов MCP.
 !/integrations/BETTERDOCS/QA-REPORT-R040.md
 !/integrations/BETTERDOCS/QA-RECEIPT-R040.json
+
+# R041: только проверенная правка иерархии локальной вики.
+!/integrations/BETTERDOCS/NAVIGATION-R041.md
