@@ -2,17 +2,21 @@
   "wordpress_id": 81,
   "post_type": "post",
   "status": "draft",
-  "title": "С.Т.Р.У.К.: как не потерять задачу за выполненной работой",
+  "title": "Методология С.Т.Р.У.К. — способ мыслить и действовать",
   "source_id": "struk-site-post",
-  "source_sha256": "cb2b591c76a551940c3febe1b8814f9ba1c0020a2ce2258552365a672a853d8c",
-  "saved_content_sha256": "576d29dd3ef8d8a4630cc9800b03c237e4a21a4864a74e48c6d545f9020d4e9b",
+  "source_sha256": "e96eb383f2df8afdd39798625477d8ebff9b5c793bbfef4bfca2d1fdc24c00a0",
+  "saved_content_sha256": "6d402574be5071ba1c21980adffefe7f083d4fac795c4788b4ad1eb595b44d53",
   "saved_content_matches": true,
-  "core_block_count": 33,
+  "core_block_counts": {
+    "core/paragraph": 66,
+    "core/heading": 33,
+    "core/table": 3,
+    "core/list": 1
+  },
   "categories": [
     1
   ],
   "dedicated_category_created": false,
-  "rendered_word_sequence_matches": true,
   "site": "http://localhost:8080",
   "source_path": "site/struk/post.md",
   "full_source_files_preserved": [
@@ -84,16 +88,45 @@
   "edit_url": "http://localhost:8080/wp-admin/post.php?post=81&action=edit",
   "preview_url": "http://localhost:8080/?p=81&preview=true",
   "heading_anchors": [
-    "где-теряется-смысл-работы",
-    "сначала-обстоятельства-и-нужное-изменение",
-    "от-решения-до-исполнения",
-    "по-чему-судить-о-результате",
-    "та-же-логика-за-пределами-работы",
-    "с-чего-начать-в-своём-деле"
+    "назначение-и-область-применения",
+    "как-устроен-струк",
+    "с-ситуация",
+    "с-чего-начать",
+    "как-ситуация-связана-с-требованиями",
+    "где-возникает-ошибка",
+    "когда-понимания-достаточно",
+    "т-требования",
+    "что-нужно-определить",
+    "как-отделить-результат-от-способа",
+    "как-уточнять-требования",
+    "р-решение",
+    "на-чём-строится-выбор",
+    "как-связать-решение-с-выполнением",
+    "где-возникает-ошибка-2",
+    "у-управление",
+    "что-происходит-здесь",
+    "когда-участвуют-другие-люди",
+    "как-учитывать-изменения",
+    "к-контроль",
+    "что-проверять",
+    "как-различать-результаты",
+    "что-делать-при-разрыве",
+    "как-связаны-функции",
+    "цель-и-средство",
+    "возвращение-к-предыдущему-вопросу",
+    "глубина-по-задаче",
+    "выполнение-и-результат",
+    "как-применять-струк-к-своей-задаче",
+    "сколько-нужно-записывать",
+    "пример-применения",
+    "сравнение-с-другими-подходами",
+    "границы-применения"
   ],
   "visual_checked": false,
-  "edition": "site-draft-2",
-  "checked_at": "2026-10-22T23:15:28.020234+03:00",
+  "edition": "site-draft-3",
+  "rendered_word_sequence_matches": true,
+  "rendered_table_count": 3,
+  "checked_at": "2026-10-22T23:40:40.942840+03:00",
   "previous_editions": [
     {
       "edition": "site-draft-1",
@@ -101,6 +134,14 @@
       "source_sha256": "ccd08296ad255b44f713dca90026a9f78a4615fe202310bd0ed8ff40ca1d4341",
       "saved_content_sha256": "65e34c9663a6b9400e42c4f2885a071c18a3dbf85bb907ac63d05a907f83ef47",
       "commit": "cd4cd03"
+    },
+    {
+      "edition": "site-draft-2",
+      "title": "С.Т.Р.У.К.: как не потерять задачу за выполненной работой",
+      "source_sha256": "cb2b591c76a551940c3febe1b8814f9ba1c0020a2ce2258552365a672a853d8c",
+      "saved_content_sha256": "576d29dd3ef8d8a4630cc9800b03c237e4a21a4864a74e48c6d545f9020d4e9b",
+      "commit": "ee28068",
+      "author_response": "rejected_R044"
     }
   ]
 }
