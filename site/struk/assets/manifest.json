@@ -1,0 +1,716 @@
+{
+  "edition": "visuals-1",
+  "site_style_source": "https://yuriystruk.ru/",
+  "palette": {
+    "ink": "#040037",
+    "blue": "#2173ea",
+    "violet": "#404bff",
+    "muted": "#514d7c",
+    "line": "#deddeb",
+    "soft": "#efeff5",
+    "paper": "#f8f9fa"
+  },
+  "font": "Play",
+  "font_source": "https://github.com/google/fonts/tree/main/ofl/play",
+  "font_license": "fonts/OFL.txt",
+  "figures": [
+    {
+      "id": "functions-map",
+      "wide": "functions-map-wide.webp",
+      "mobile": "functions-map-mobile.webp",
+      "alt": "Пять функций СТРУК: ситуация, требования, решение, управление и контроль. При изменениях возможны выборочные возвраты к затронутым функциям.",
+      "caption": "При новых обстоятельствах можно вернуться к затронутой функции и пересмотреть дальнейшее действие."
+    },
+    {
+      "id": "goal-check",
+      "wide": "release-story.webp",
+      "mobile": null,
+      "alt": "Иллюстрация: машина выпустила продукт с праздничным флажком, но разрыв на пути мешает доставить его ожидающему пользователю.",
+      "caption": "Релиз состоялся, а путь пользователя всё ещё прерван."
+    },
+    {
+      "id": "product-routes",
+      "wide": "product-stories-wide.webp",
+      "mobile": "product-stories-mobile.webp",
+      "alt": "Три продуктовые ситуации: изучение механизма через лупу, сборка нового продукта и восстановление связей в существующем.",
+      "caption": "Диагностика, создание и работа с проблемным продуктом требуют разных действий и результатов."
+    }
+  ],
+  "files": {
+    "functions-map-wide.webp": {
+      "width": 2240,
+      "height": 1520,
+      "sha256": "e6302962c01e9170623370ebfd3277a7c7873dfb35a13305f91bb118b942f009",
+      "bytes": 130020
+    },
+    "functions-map-mobile.webp": {
+      "width": 800,
+      "height": 2300,
+      "sha256": "66ee3f1df81d2427326c5c62b95c5d93b1a27fe42e405f5ab5ad8198df250f20",
+      "bytes": 98880
+    },
+    "release-story.webp": {
+      "width": 1254,
+      "height": 1254,
+      "sha256": "b43a2c8b4aa18b0e8a294b59e6099589ad46088693aedcef58c2c5e2f081b1c6",
+      "bytes": 61836
+    },
+    "product-stories-wide.webp": {
+      "width": 1536,
+      "height": 1024,
+      "sha256": "a0b405bc635b9ae90666928787cfd0e71a9b2840f0942bd011336fbe4a10c301",
+      "bytes": 173886
+    },
+    "product-stories-mobile.webp": {
+      "width": 1024,
+      "height": 1536,
+      "sha256": "86feb4f61551bd372d18b86a040c8e4292ed61ddbd9d5ba303e85d9e7a19c5de",
+      "bytes": 123134
+    }
+  },
+  "diagram_metrics": {
+    "wide": {
+      "file": "functions-map-wide.webp",
+      "width": 2240,
+      "height": 1520,
+      "source": "functions-map-wide.svg",
+      "logical_width": 1120,
+      "logical_height": 760,
+      "min_font_size": 26,
+      "labels": [
+        {
+          "text": "С.Т.Р.У.К.",
+          "font_size": 48,
+          "bounds": [
+            48,
+            28,
+            210.0
+          ]
+        },
+        {
+          "text": "Пять связанных функций",
+          "font_size": 32,
+          "bounds": [
+            48,
+            93,
+            372.5
+          ]
+        },
+        {
+          "text": "С",
+          "font_size": 62,
+          "bounds": [
+            125.5,
+            182,
+            37.0
+          ]
+        },
+        {
+          "text": "Ситуация",
+          "font_size": 28,
+          "bounds": [
+            79.5,
+            283,
+            129.0
+          ]
+        },
+        {
+          "text": "Что происходит",
+          "font_size": 26,
+          "bounds": [
+            47.5,
+            327,
+            193.0
+          ]
+        },
+        {
+          "text": "на самом деле?",
+          "font_size": 26,
+          "bounds": [
+            48.0,
+            361,
+            192.0
+          ]
+        },
+        {
+          "text": "Т",
+          "font_size": 62,
+          "bounds": [
+            333.5,
+            182,
+            37.0
+          ]
+        },
+        {
+          "text": "Требования",
+          "font_size": 28,
+          "bounds": [
+            269.5,
+            283,
+            165.0
+          ]
+        },
+        {
+          "text": "Что должно",
+          "font_size": 26,
+          "bounds": [
+            280.5,
+            327,
+            143.0
+          ]
+        },
+        {
+          "text": "получиться?",
+          "font_size": 26,
+          "bounds": [
+            275.75,
+            361,
+            152.5
+          ]
+        },
+        {
+          "text": "Р",
+          "font_size": 62,
+          "bounds": [
+            540.5,
+            182,
+            39.0
+          ]
+        },
+        {
+          "text": "Решение",
+          "font_size": 28,
+          "bounds": [
+            499.25,
+            283,
+            121.5
+          ]
+        },
+        {
+          "text": "Как действовать",
+          "font_size": 26,
+          "bounds": [
+            459.0,
+            327,
+            202.0
+          ]
+        },
+        {
+          "text": "и почему так?",
+          "font_size": 26,
+          "bounds": [
+            474.25,
+            361,
+            171.5
+          ]
+        },
+        {
+          "text": "У",
+          "font_size": 62,
+          "bounds": [
+            749.25,
+            182,
+            37.5
+          ]
+        },
+        {
+          "text": "Управление",
+          "font_size": 28,
+          "bounds": [
+            685.5,
+            283,
+            165.0
+          ]
+        },
+        {
+          "text": "Выполнить",
+          "font_size": 26,
+          "bounds": [
+            701.0,
+            327,
+            134.0
+          ]
+        },
+        {
+          "text": "выбранное",
+          "font_size": 26,
+          "bounds": [
+            700.25,
+            361,
+            135.5
+          ]
+        },
+        {
+          "text": "К",
+          "font_size": 62,
+          "bounds": [
+            955.75,
+            182,
+            40.5
+          ]
+        },
+        {
+          "text": "Контроль",
+          "font_size": 28,
+          "bounds": [
+            910.0,
+            283,
+            132.0
+          ]
+        },
+        {
+          "text": "Сопоставить",
+          "font_size": 26,
+          "bounds": [
+            899.0,
+            327,
+            154.0
+          ]
+        },
+        {
+          "text": "с требованиями",
+          "font_size": 26,
+          "bounds": [
+            877.0,
+            361,
+            198.0
+          ]
+        },
+        {
+          "text": "Новое обстоятельство",
+          "font_size": 26,
+          "bounds": [
+            48,
+            554,
+            275.5
+          ]
+        },
+        {
+          "text": "Ситуация",
+          "font_size": 26,
+          "bounds": [
+            530,
+            554,
+            113.5
+          ]
+        },
+        {
+          "text": "Изменились требования",
+          "font_size": 26,
+          "bounds": [
+            48,
+            592,
+            301.5
+          ]
+        },
+        {
+          "text": "Требования",
+          "font_size": 26,
+          "bounds": [
+            530,
+            592,
+            147.5
+          ]
+        },
+        {
+          "text": "Способ не подошёл",
+          "font_size": 26,
+          "bounds": [
+            48,
+            630,
+            236.5
+          ]
+        },
+        {
+          "text": "Решение",
+          "font_size": 26,
+          "bounds": [
+            530,
+            630,
+            108.5
+          ]
+        },
+        {
+          "text": "Ориентир — нужный результат",
+          "font_size": 28,
+          "bounds": [
+            346.75,
+            697,
+            426.5
+          ]
+        }
+      ]
+    },
+    "mobile": {
+      "file": "functions-map-mobile.webp",
+      "width": 800,
+      "height": 2300,
+      "source": "functions-map-mobile.svg",
+      "logical_width": 400,
+      "logical_height": 1150,
+      "min_font_size": 23,
+      "labels": [
+        {
+          "text": "С.Т.Р.У.К.",
+          "font_size": 34,
+          "bounds": [
+            22,
+            23,
+            147.5
+          ]
+        },
+        {
+          "text": "Пять связанных функций",
+          "font_size": 24,
+          "bounds": [
+            22,
+            70,
+            280.0
+          ]
+        },
+        {
+          "text": "С",
+          "font_size": 46,
+          "bounds": [
+            43.25,
+            133,
+            27.5
+          ]
+        },
+        {
+          "text": "Ситуация",
+          "font_size": 27,
+          "bounds": [
+            108,
+            130,
+            124.5
+          ]
+        },
+        {
+          "text": "Что происходит",
+          "font_size": 23,
+          "bounds": [
+            108,
+            170,
+            171.0
+          ]
+        },
+        {
+          "text": "на самом деле?",
+          "font_size": 23,
+          "bounds": [
+            108,
+            199,
+            170.0
+          ]
+        },
+        {
+          "text": "Т",
+          "font_size": 46,
+          "bounds": [
+            43.25,
+            263,
+            27.5
+          ]
+        },
+        {
+          "text": "Требования",
+          "font_size": 27,
+          "bounds": [
+            108,
+            260,
+            159.0
+          ]
+        },
+        {
+          "text": "Что должно",
+          "font_size": 23,
+          "bounds": [
+            108,
+            300,
+            126.5
+          ]
+        },
+        {
+          "text": "получиться?",
+          "font_size": 23,
+          "bounds": [
+            108,
+            329,
+            135.0
+          ]
+        },
+        {
+          "text": "Р",
+          "font_size": 46,
+          "bounds": [
+            42.5,
+            393,
+            29.0
+          ]
+        },
+        {
+          "text": "Решение",
+          "font_size": 27,
+          "bounds": [
+            108,
+            390,
+            117.5
+          ]
+        },
+        {
+          "text": "Как действовать",
+          "font_size": 23,
+          "bounds": [
+            108,
+            430,
+            179.0
+          ]
+        },
+        {
+          "text": "и почему так?",
+          "font_size": 23,
+          "bounds": [
+            108,
+            459,
+            152.0
+          ]
+        },
+        {
+          "text": "У",
+          "font_size": 46,
+          "bounds": [
+            43.0,
+            523,
+            28.0
+          ]
+        },
+        {
+          "text": "Управление",
+          "font_size": 27,
+          "bounds": [
+            108,
+            520,
+            159.0
+          ]
+        },
+        {
+          "text": "Выполнить",
+          "font_size": 23,
+          "bounds": [
+            108,
+            560,
+            118.5
+          ]
+        },
+        {
+          "text": "выбранное",
+          "font_size": 23,
+          "bounds": [
+            108,
+            589,
+            119.0
+          ]
+        },
+        {
+          "text": "К",
+          "font_size": 46,
+          "bounds": [
+            42.0,
+            653,
+            30.0
+          ]
+        },
+        {
+          "text": "Контроль",
+          "font_size": 27,
+          "bounds": [
+            108,
+            650,
+            127.5
+          ]
+        },
+        {
+          "text": "Сопоставить",
+          "font_size": 23,
+          "bounds": [
+            108,
+            690,
+            136.5
+          ]
+        },
+        {
+          "text": "с требованиями",
+          "font_size": 23,
+          "bounds": [
+            108,
+            719,
+            174.5
+          ]
+        },
+        {
+          "text": "Если условия изменились",
+          "font_size": 25,
+          "bounds": [
+            22,
+            803,
+            318.5
+          ]
+        },
+        {
+          "text": "Новое обстоятельство",
+          "font_size": 23,
+          "bounds": [
+            22,
+            856,
+            243.5
+          ]
+        },
+        {
+          "text": "С",
+          "font_size": 23,
+          "bounds": [
+            363.25,
+            856,
+            13.5
+          ]
+        },
+        {
+          "text": "Изменились требования",
+          "font_size": 23,
+          "bounds": [
+            22,
+            900,
+            265.5
+          ]
+        },
+        {
+          "text": "Т",
+          "font_size": 23,
+          "bounds": [
+            363.25,
+            900,
+            13.5
+          ]
+        },
+        {
+          "text": "Способ не подошёл",
+          "font_size": 23,
+          "bounds": [
+            22,
+            944,
+            209.5
+          ]
+        },
+        {
+          "text": "Р",
+          "font_size": 23,
+          "bounds": [
+            362.75,
+            944,
+            14.5
+          ]
+        },
+        {
+          "text": "Ориентир —",
+          "font_size": 27,
+          "bounds": [
+            120.75,
+            1034,
+            158.5
+          ]
+        },
+        {
+          "text": "нужный результат",
+          "font_size": 27,
+          "bounds": [
+            77.0,
+            1071,
+            246.0
+          ]
+        }
+      ]
+    }
+  },
+  "viewport_breakpoint_px": 767,
+  "browser_page_visual_checked": false,
+  "component_preview_width_px": 320,
+  "min_diagram_font_at_320px": 18.4,
+  "ui_browser_inventory": "Only Codex MCP Apps, zero tabs",
+  "wordpress_media": {
+    "functions-map-wide.webp": {
+      "id": 88,
+      "url": "http://localhost:8080/wp-content/uploads/2026/10/struk-functions-map-wide.webp",
+      "width": 2240,
+      "height": 1520,
+      "sha256": "e6302962c01e9170623370ebfd3277a7c7873dfb35a13305f91bb118b942f009"
+    },
+    "functions-map-mobile.webp": {
+      "id": 89,
+      "url": "http://localhost:8080/wp-content/uploads/2026/10/struk-functions-map-mobile.webp",
+      "width": 800,
+      "height": 2300,
+      "sha256": "66ee3f1df81d2427326c5c62b95c5d93b1a27fe42e405f5ab5ad8198df250f20"
+    },
+    "release-story.webp": {
+      "id": 90,
+      "url": "http://localhost:8080/wp-content/uploads/2026/10/struk-release-story.webp",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "b43a2c8b4aa18b0e8a294b59e6099589ad46088693aedcef58c2c5e2f081b1c6"
+    },
+    "product-stories-wide.webp": {
+      "id": 91,
+      "url": "http://localhost:8080/wp-content/uploads/2026/10/struk-product-stories-wide.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "a0b405bc635b9ae90666928787cfd0e71a9b2840f0942bd011336fbe4a10c301"
+    },
+    "product-stories-mobile.webp": {
+      "id": 92,
+      "url": "http://localhost:8080/wp-content/uploads/2026/10/struk-product-stories-mobile.webp",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "86feb4f61551bd372d18b86a040c8e4292ed61ddbd9d5ba303e85d9e7a19c5de"
+    }
+  },
+  "insertion_status": "inserted_in_draft",
+  "last_lock_check": {
+    "active_at_write": false,
+    "owner_confirmed_editor_closed": true
+  },
+  "assets_inserted": true,
+  "text_unchanged": true,
+  "http_checks": [
+    {
+      "file": "functions-map-wide.webp",
+      "status": 200,
+      "content_type": "image/webp",
+      "sha256_matches": true
+    },
+    {
+      "file": "functions-map-mobile.webp",
+      "status": 200,
+      "content_type": "image/webp",
+      "sha256_matches": true
+    },
+    {
+      "file": "release-story.webp",
+      "status": 200,
+      "content_type": "image/webp",
+      "sha256_matches": true
+    },
+    {
+      "file": "product-stories-wide.webp",
+      "status": 200,
+      "content_type": "image/webp",
+      "sha256_matches": true
+    },
+    {
+      "file": "product-stories-mobile.webp",
+      "status": 200,
+      "content_type": "image/webp",
+      "sha256_matches": true
+    }
+  ]
+}

@@ -146,3 +146,24 @@
 
 # R048: только проверенные задания для иллюстраций и источники цитат.
 !/site/struk/ILLUSTRATIONS.md
+
+# R049: только проверенные иллюстрации, шрифт OFL и генератор.
+!/site/struk/assets/
+!/site/struk/assets/fonts/
+!/site/struk/generate_visuals.py
+!/site/struk/assets/fonts/OFL.txt
+!/site/struk/assets/fonts/Play-Bold.ttf
+!/site/struk/assets/fonts/Play-Regular.ttf
+!/site/struk/assets/functions-map-mobile.svg
+!/site/struk/assets/functions-map-mobile.webp
+!/site/struk/assets/functions-map-wide.svg
+!/site/struk/assets/functions-map-wide.webp
+!/site/struk/assets/manifest.json
+!/site/struk/assets/mobile-preview.png
+!/site/struk/assets/product-stories-mobile-original.png
+!/site/struk/assets/product-stories-mobile.webp
+!/site/struk/assets/product-stories-original.png
+!/site/struk/assets/product-stories-wide.webp
+!/site/struk/assets/prompts.json
+!/site/struk/assets/release-story-original.png
+!/site/struk/assets/release-story.webp

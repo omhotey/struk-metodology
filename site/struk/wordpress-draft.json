@@ -4,14 +4,14 @@
   "status": "draft",
   "title": "Методология С.Т.Р.У.К. — способ мыслить и действовать",
   "source_id": "struk-site-post",
-  "source_sha256": "34eed2af6f2c65754330367c31a83eaae970266121fc3ed72b2a4baec291fea2",
-  "saved_content_sha256": "8945afdee6c03970a59fb70608b56171ca6c5a2d0edf94d067944a302bfed6cb",
+  "source_sha256": "a39b1f0eac3da2fa550bc507976b76cbe532eca03dd0a5f1890fb181b03a8318",
+  "saved_content_sha256": "b91f7b85b1ba008ad4411d6bd4d3a679674de386d44f26b7df17bded5f9329c7",
   "saved_content_matches": true,
   "core_block_counts": {
-    "core/paragraph": 57,
+    "core/paragraph": 54,
     "core/heading": 17,
     "core/table": 3,
-    "core/group": 3,
+    "core/html": 3,
     "core/quote": 3,
     "core/list": 1,
     "core/list-item": 5
@@ -110,10 +110,10 @@
     "послесловие-автора"
   ],
   "visual_checked": false,
-  "edition": "site-draft-7",
+  "edition": "site-draft-8",
   "rendered_word_sequence_matches": true,
   "rendered_table_count": 3,
-  "checked_at": "2026-10-23T00:49:23.310383+03:00",
+  "checked_at": "2026-10-23T01:15:20.641325+03:00",
   "previous_editions": [
     {
       "edition": "site-draft-1",
@@ -165,14 +165,64 @@
       "preserved_main_markdown_sha256": "011975e1367bc6820659f0aba67f1b431cf66197a7604bcd2118fe39a26223ea",
       "commit": "733e38f",
       "author_response": "R048: разрешены редактура переходов/повторов, согласование лопаты, цитаты и места для иллюстраций; методические положения сохранить"
+    },
+    {
+      "edition": "site-draft-7",
+      "title": "Методология С.Т.Р.У.К. — способ мыслить и действовать",
+      "source_sha256": "34eed2af6f2c65754330367c31a83eaae970266121fc3ed72b2a4baec291fea2",
+      "saved_content_sha256": "8945afdee6c03970a59fb70608b56171ca6c5a2d0edf94d067944a302bfed6cb",
+      "commit": "9a4871c",
+      "author_response": "R049: создать и сразу вставить схему и сюжетные иллюстрации; текст не менять"
     }
   ],
-  "illustration_slots": [
-    "functions-map",
-    "goal-check",
-    "product-routes"
-  ],
+  "illustration_slots": [],
   "rendered_quote_count": 3,
-  "rendered_illustration_slot_count": 3,
-  "illustrations_created": false
+  "rendered_illustration_slot_count": 0,
+  "illustrations_created": true,
+  "narrative_blocks_unchanged": true,
+  "preserved_narrative_blocks_sha256": "cde1b1e0833efe98e7cb232ee41ea4263de726ac80325d4aa969808a02c85be8",
+  "lock_active_at_write_check": false,
+  "owner_confirmed_editor_closed": true,
+  "rendered_image_count": 3,
+  "responsive_picture_count": 3,
+  "mobile_art_direction_sources": 2,
+  "wordpress_media": {
+    "functions-map-wide.webp": {
+      "id": 88,
+      "url": "http://localhost:8080/wp-content/uploads/2026/10/struk-functions-map-wide.webp",
+      "width": 2240,
+      "height": 1520,
+      "sha256": "e6302962c01e9170623370ebfd3277a7c7873dfb35a13305f91bb118b942f009"
+    },
+    "functions-map-mobile.webp": {
+      "id": 89,
+      "url": "http://localhost:8080/wp-content/uploads/2026/10/struk-functions-map-mobile.webp",
+      "width": 800,
+      "height": 2300,
+      "sha256": "66ee3f1df81d2427326c5c62b95c5d93b1a27fe42e405f5ab5ad8198df250f20"
+    },
+    "release-story.webp": {
+      "id": 90,
+      "url": "http://localhost:8080/wp-content/uploads/2026/10/struk-release-story.webp",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "b43a2c8b4aa18b0e8a294b59e6099589ad46088693aedcef58c2c5e2f081b1c6"
+    },
+    "product-stories-wide.webp": {
+      "id": 91,
+      "url": "http://localhost:8080/wp-content/uploads/2026/10/struk-product-stories-wide.webp",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "a0b405bc635b9ae90666928787cfd0e71a9b2840f0942bd011336fbe4a10c301"
+    },
+    "product-stories-mobile.webp": {
+      "id": 92,
+      "url": "http://localhost:8080/wp-content/uploads/2026/10/struk-product-stories-mobile.webp",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "86feb4f61551bd372d18b86a040c8e4292ed61ddbd9d5ba303e85d9e7a19c5de"
+    }
+  },
+  "narrative_markdown_unchanged": true,
+  "image_compositions_checked_at_width": 320
 }

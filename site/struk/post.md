@@ -4,7 +4,7 @@ title: "Методология С.Т.Р.У.К. — способ мыслить �
 description: "Назначение СТРУК, пять связанных функций, порядок применения, примеры из жизни и работы и сравнение с другими подходами."
 method_author: "Юрий Струк"
 editorial_status: "draft"
-edition: "site-draft-7"
+edition: "site-draft-8"
 updated: "2026-10-23"
 post_type: "post"
 ---
@@ -35,7 +35,13 @@ post_type: "post"
 
 Требования опираются на ситуацию, решение выбирают ради нужного результата, управление ведёт выполнение, контроль сопоставляет полученное с требованиями. При этом функции связаны в обе стороны. Проверка может обнаружить ошибку в выборе способа, выполнение — новое обстоятельство, а уточнение требований — показать, каких сведений о ситуации не хватает. Поэтому СТРУК допускает возвращение к любому вопросу, который изменился или остался без достаточного ответа.
 
-*Место для иллюстрации 1 — Пять связанных функций СТРУК*
+<figure class="wp-block-image struk-illustration" data-struk-asset="functions-map" style="margin:2em 0">
+<picture>
+<source media="(max-width:767px)" type="image/webp" srcset="assets/functions-map-mobile.webp" width="800" height="2300">
+<img src="assets/functions-map-wide.webp" width="2240" height="1520" alt="Пять функций СТРУК: ситуация, требования, решение, управление и контроль. При изменениях возможны выборочные возвраты к затронутым функциям." loading="lazy" decoding="async" style="display:block;width:100%;max-width:100%;height:auto">
+</picture>
+<figcaption style="font-size:0.95em;line-height:1.5;margin-top:0.75em">При новых обстоятельствах можно вернуться к затронутой функции и пересмотреть дальнейшее действие.</figcaption>
+</figure>
 
 ## С — Ситуация
 
@@ -93,7 +99,12 @@ post_type: "post"
 >
 > — Юрий Струк, из описания СТРУК
 
-*Место для иллюстрации 2 — Выпуск состоялся. Задача решена?*
+<figure class="wp-block-image struk-illustration" data-struk-asset="goal-check" style="margin:2em 0">
+<picture>
+<img src="assets/release-story.webp" width="1254" height="1254" alt="Иллюстрация: машина выпустила продукт с праздничным флажком, но разрыв на пути мешает доставить его ожидающему пользователю." loading="lazy" decoding="async" style="display:block;width:100%;max-width:100%;height:auto">
+</picture>
+<figcaption style="font-size:0.95em;line-height:1.5;margin-top:0.75em">Релиз состоялся, а путь пользователя всё ещё прерван.</figcaption>
+</figure>
 
 ## Как применять СТРУК к своей задаче
 
@@ -145,7 +156,13 @@ post_type: "post"
 >
 > — Юрий Струк, из описания СТРУК
 
-*Место для иллюстрации 3 — Три продуктовые задачи, три результата*
+<figure class="wp-block-image struk-illustration" data-struk-asset="product-routes" style="margin:2em 0">
+<picture>
+<source media="(max-width:767px)" type="image/webp" srcset="assets/product-stories-mobile.webp" width="1024" height="1536">
+<img src="assets/product-stories-wide.webp" width="1536" height="1024" alt="Три продуктовые ситуации: изучение механизма через лупу, сборка нового продукта и восстановление связей в существующем." loading="lazy" decoding="async" style="display:block;width:100%;max-width:100%;height:auto">
+</picture>
+<figcaption style="font-size:0.95em;line-height:1.5;margin-top:0.75em">Диагностика, создание и работа с проблемным продуктом требуют разных действий и результатов.</figcaption>
+</figure>
 
 ### Испачканная обувь: довести простое дело до конца
 
