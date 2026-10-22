@@ -130,3 +130,10 @@
 
 # R041: только проверенная правка иерархии локальной вики.
 !/integrations/BETTERDOCS/NAVIGATION-R041.md
+
+# R042: одна читательская запись сайта, редакционная карта и проверенная квитанция.
+!/site/
+!/site/struk/
+!/site/struk/post.md
+!/site/struk/README.md
+!/site/struk/wordpress-draft.json
