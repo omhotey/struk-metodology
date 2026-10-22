@@ -1159,11 +1159,11 @@
       "struk-author"
     ],
     "function_order": [
-      "struk-situation",
-      "struk-requirements",
-      "struk-decision",
-      "struk-management",
-      "struk-control"
+      "struk-functions-situation",
+      "struk-functions-requirements",
+      "struk-functions-decision",
+      "struk-functions-management",
+      "struk-functions-control"
     ],
     "source_report": "NAVIGATION-R041.md"
   },
