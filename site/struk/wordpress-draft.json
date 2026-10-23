@@ -224,5 +224,14 @@
     }
   },
   "narrative_markdown_unchanged": true,
-  "image_compositions_checked_at_width": 320
+  "image_compositions_checked_at_width": 320,
+  "pending_update": {
+    "request": "R050",
+    "edition": "site-draft-9",
+    "source_sha256": "37c318d2606cc1216c3adbed78b0b20e06247bb6681a229bf2dbd8ab3b26affa",
+    "status": "local_example_prepared_wordpress_blocked_by_active_editor",
+    "protected_markdown_outside_example_unchanged": true,
+    "illustration_markup_unchanged": true,
+    "browser_status": "Yandex window observed; navigation stopped by Computer Use because URL policy enforcement is not yet supported for the current Windows browser. Article and mobile visual QA unavailable."
+  }
 }
