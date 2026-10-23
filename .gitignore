@@ -167,3 +167,6 @@
 !/site/struk/assets/prompts.json
 !/site/struk/assets/release-story-original.png
 !/site/struk/assets/release-story.webp
+
+# R052: проверенный пакет одной статьи для основного сайта, без учётных данных.
+!/site/struk/production-draft.json
