@@ -4,8 +4,8 @@
   "status": "draft",
   "title": "Методология С.Т.Р.У.К. — способ мыслить и действовать",
   "source_id": "struk-site-post",
-  "source_sha256": "37c318d2606cc1216c3adbed78b0b20e06247bb6681a229bf2dbd8ab3b26affa",
-  "saved_content_sha256": "2f23197fbeeb6cd13c988c768ebe70611fddd0ee4cfea9320a694754b3c7a0b4",
+  "source_sha256": "69fcd78e37dd49c6717b1341d0cfb15341f7232d9fd23e2836511a0298ebb5c7",
+  "saved_content_sha256": "80384408ce37d54acd4e2f11b6a2193e87dbc2e9f2e995cc968fc5f7020c3471",
   "saved_content_matches": true,
   "core_block_counts": {
     "core/paragraph": 54,
@@ -110,9 +110,9 @@
     "послесловие-автора"
   ],
   "visual_checked": false,
-  "edition": "site-draft-9",
+  "edition": "site-draft-10",
   "rendered_table_count": 3,
-  "checked_at": "2026-10-23T10:08:41.726425+03:00",
+  "checked_at": "2026-10-23T10:18:58.783283+03:00",
   "previous_editions": [
     {
       "edition": "site-draft-1",
@@ -180,6 +180,14 @@
       "saved_content_sha256": "b91f7b85b1ba008ad4411d6bd4d3a679674de386d44f26b7df17bded5f9329c7",
       "commit": "278d067",
       "author_response": "R050: визуальная проверка; бытовой пример о грязных ботинках в помещении"
+    },
+    {
+      "edition": "site-draft-9",
+      "title": "Методология С.Т.Р.У.К. — способ мыслить и действовать",
+      "source_sha256": "37c318d2606cc1216c3adbed78b0b20e06247bb6681a229bf2dbd8ab3b26affa",
+      "saved_content_sha256": "2f23197fbeeb6cd13c988c768ebe70611fddd0ee4cfea9320a694754b3c7a0b4",
+      "commit": "0a0351e",
+      "author_response": "R051: заменить Double Diamond и проверить всю таблицу без обесценивания и превосходства"
     }
   ],
   "illustration_slots": [],
@@ -231,7 +239,7 @@
   },
   "narrative_markdown_unchanged": false,
   "image_compositions_checked_at_width": 320,
-  "narrative_outside_everyday_example_unchanged": true,
+  "narrative_outside_everyday_example_unchanged": false,
   "illustration_markup_unchanged": true,
   "r050_checks": {
     "saved_content_sha256": "2f23197fbeeb6cd13c988c768ebe70611fddd0ee4cfea9320a694754b3c7a0b4",
@@ -266,5 +274,45 @@
     ],
     "browser_status": "Computer Use stopped navigation: browser URL policy enforcement is not yet supported for the current Windows browser (Yandex). Article/mobile visual QA unavailable.",
     "layout_changed": false
+  },
+  "narrative_outside_comparison_table_unchanged": true,
+  "r051_checks": {
+    "content_sha256": "80384408ce37d54acd4e2f11b6a2193e87dbc2e9f2e995cc968fc5f7020c3471",
+    "source_sha256": "69fcd78e37dd49c6717b1341d0cfb15341f7232d9fd23e2836511a0298ebb5c7",
+    "status": "draft",
+    "changed_blocks": 1,
+    "protected_blocks": 148,
+    "protected_blocks_sha256": "901e9c6f77d0dc0e8bef3c8b868e84e979cf6e7238b8d0846d542c7829d00829",
+    "table_count": 3,
+    "image_count": 3,
+    "quote_count": 3,
+    "heading_anchors": [
+      "назначение-и-область-применения",
+      "как-устроен-струк",
+      "с-ситуация",
+      "т-требования",
+      "р-решение",
+      "у-управление",
+      "к-контроль",
+      "как-связаны-функции",
+      "как-применять-струк-к-своей-задаче",
+      "примеры-применения-в-продуктовом-управлении",
+      "диагностика-продукта-понять-что-мешает-результату",
+      "создание-нового-продукта-связать-замысел-устройство-и-запуск",
+      "проблемный-продукт-вернуть-управляемость-и-провести-изменения",
+      "испачканная-обувь-довести-простое-дело-до-конца",
+      "сравнение-с-другими-подходами",
+      "границы-применения",
+      "послесловие-автора"
+    ],
+    "changed_cells": 4,
+    "all_other_blocks_unchanged": true,
+    "source_outside_table_and_edition_unchanged": true,
+    "primary_sources_verified": [
+      "https://agilemanifesto.org/iso/ru/manifesto.html",
+      "https://scrumguides.org/scrum-guide.html",
+      "https://asq.org/quality-resources/pdca-cycle",
+      "https://www.designcouncil.org.uk/resources/framework-for-innovation/"
+    ]
   }
 }
