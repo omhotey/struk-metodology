@@ -4,7 +4,7 @@ title: "Методология С.Т.Р.У.К. — способ мыслить �
 description: "Назначение СТРУК, пять связанных функций, порядок применения, примеры из жизни и работы и сравнение с другими подходами."
 method_author: "Юрий Струк"
 editorial_status: "draft"
-edition: "site-draft-11"
+edition: "site-draft-12"
 updated: "2026-10-23"
 post_type: "post"
 ---
@@ -35,13 +35,9 @@ post_type: "post"
 
 Требования опираются на ситуацию, решение выбирают ради нужного результата, управление ведёт выполнение, контроль сопоставляет полученное с требованиями. При этом функции связаны в обе стороны. Проверка может обнаружить ошибку в выборе способа, выполнение — новое обстоятельство, а уточнение требований — показать, каких сведений о ситуации не хватает. Поэтому СТРУК допускает возвращение к любому вопросу, который изменился или остался без достаточного ответа.
 
-<figure class="wp-block-image struk-illustration" data-struk-asset="functions-map" style="margin:2em 0">
-<picture>
-<source media="(max-width:767px)" type="image/webp" srcset="assets/functions-map-mobile.webp" width="800" height="2300">
-<img src="assets/functions-map-wide.webp" width="2240" height="1520" alt="Пять функций СТРУК: ситуация, требования, решение, управление и контроль. При изменениях возможны выборочные возвраты к затронутым функциям." loading="lazy" decoding="async" style="display:block;width:100%;max-width:100%;height:auto">
-</picture>
-<figcaption style="font-size:0.95em;line-height:1.5;margin-top:0.75em">При новых обстоятельствах можно вернуться к затронутой функции и пересмотреть дальнейшее действие.</figcaption>
-</figure>
+<!-- wp:image {"id":947,"width":"400px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"center","style":{"spacing":{"margin":{"top":"2em","bottom":"2em"}}},"metadata":{"name":"Иллюстрация СТРУК — functions-map"}} -->
+<figure class="wp-block-image aligncenter size-full is-resized" style="margin-top:2em;margin-bottom:2em"><img src="assets/functions-map-mobile.webp" alt="Пять функций СТРУК: ситуация, требования, решение, управление и контроль. При изменениях возможны выборочные возвраты к затронутым функциям." class="wp-image-947" style="width:400px;height:auto"/><figcaption class="wp-element-caption">При новых обстоятельствах можно вернуться к затронутой функции и пересмотреть дальнейшее действие.</figcaption></figure>
+<!-- /wp:image -->
 
 ## С — Ситуация
 
@@ -95,12 +91,9 @@ post_type: "post"
 
 Глубина применения зависит от сложности, последствий ошибки, времени и участников. В простом деле пять функций могут пройти мысленно и почти одновременно. В длинном проекте полезно записывать основания, действия и договорённости, чтобы к ним можно было вернуться. Способ записи должен помогать участникам восстановить основания выбора и продолжить дело, не теряя договорённостей. Для каждого дела выбирают достаточную форму работы: пять функций не требуют пяти отдельных документов.
 
-<figure class="wp-block-image struk-illustration" data-struk-asset="goal-check" style="margin:2em 0">
-<picture>
-<img src="assets/release-story.webp" width="1254" height="1254" alt="Иллюстрация: машина выпустила продукт с праздничным флажком, но разрыв на пути мешает доставить его ожидающему пользователю." loading="lazy" decoding="async" style="display:block;width:100%;max-width:100%;height:auto">
-</picture>
-<figcaption style="font-size:0.95em;line-height:1.5;margin-top:0.75em">Релиз состоялся, а путь пользователя всё ещё прерван.</figcaption>
-</figure>
+<!-- wp:image {"id":948,"width":"640px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"center","style":{"spacing":{"margin":{"top":"2em","bottom":"2em"}}},"metadata":{"name":"Иллюстрация СТРУК — goal-check"}} -->
+<figure class="wp-block-image aligncenter size-full is-resized" style="margin-top:2em;margin-bottom:2em"><img src="assets/release-story.webp" alt="Иллюстрация: машина выпустила продукт с праздничным флажком, но разрыв на пути мешает доставить его ожидающему пользователю." class="wp-image-948" style="width:640px;height:auto"/><figcaption class="wp-element-caption">Релиз состоялся, а путь пользователя всё ещё прерван.</figcaption></figure>
+<!-- /wp:image -->
 
 ## Как применять СТРУК к своей задаче
 
@@ -148,13 +141,9 @@ post_type: "post"
 
 При **контроле** проверяют согласованный сценарий в работе, оставшиеся ограничения, выполнение обязательств и способность команды продолжать в понятном порядке. Если выбран другой исход, меняется и проверка: для передачи нужны фактически переданный контекст и возможность новой команды продолжить; для завершения — сохранённые полезные результаты и закрытые согласованные обязательства. Это соответствует моей [работе с проблемным продуктом](https://yuriystruk.ru/rabota-s-problemnym-produktom/), где важно провести выбранный этап изменений. Диагностика входит в него в достаточном объёме; отдельный аудит нужен лишь тогда, когда у него есть самостоятельный вопрос и результат. Продолжение работы после этапа обсуждается отдельно.
 
-<figure class="wp-block-image struk-illustration" data-struk-asset="product-routes" style="margin:2em 0">
-<picture>
-<source media="(max-width:767px)" type="image/webp" srcset="assets/product-stories-mobile.webp" width="1024" height="1536">
-<img src="assets/product-stories-wide.webp" width="1536" height="1024" alt="Три продуктовые ситуации: изучение механизма через лупу, сборка нового продукта и восстановление связей в существующем." loading="lazy" decoding="async" style="display:block;width:100%;max-width:100%;height:auto">
-</picture>
-<figcaption style="font-size:0.95em;line-height:1.5;margin-top:0.75em">Диагностика, создание и работа с проблемным продуктом требуют разных действий и результатов.</figcaption>
-</figure>
+<!-- wp:image {"id":950,"width":"640px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"center","style":{"spacing":{"margin":{"top":"2em","bottom":"2em"}}},"metadata":{"name":"Иллюстрация СТРУК — product-routes"}} -->
+<figure class="wp-block-image aligncenter size-full is-resized" style="margin-top:2em;margin-bottom:2em"><img src="assets/product-stories-mobile.webp" alt="Три продуктовые ситуации: изучение механизма через лупу, сборка нового продукта и восстановление связей в существующем." class="wp-image-950" style="width:640px;height:auto"/><figcaption class="wp-element-caption">Диагностика, создание и работа с проблемным продуктом требуют разных действий и результатов.</figcaption></figure>
+<!-- /wp:image -->
 
 ### Испачканная обувь: довести простое дело до конца
 

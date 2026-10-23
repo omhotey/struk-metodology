@@ -4,17 +4,17 @@
   "status": "draft",
   "title": "Методология С.Т.Р.У.К. — способ мыслить и действовать",
   "source_id": "struk-site-post",
-  "source_sha256": "7ffa623644bf85c6e1ca46fff4ef9221aee3236753a6abaa9ada778ef98020cd",
-  "saved_content_sha256": "6170c463d2e45e6d46e82ec1b3fd565a095f152157b1b2e03298b5d235fd1319",
+  "source_sha256": "d094cec82912cd332edca9531dbb99dfd75736f08c96b417b66a1c8db40f2d5d",
+  "saved_content_sha256": "88f34d31ff77c0fe698ae6313b3467632aed4327d3463ea212b33e87401dbcba",
   "saved_content_matches": true,
   "core_block_counts": {
     "core/paragraph": 54,
     "core/heading": 17,
     "core/table": 3,
-    "core/html": 3,
     "core/quote": 1,
     "core/list": 1,
-    "core/list-item": 5
+    "core/list-item": 5,
+    "core/image": 3
   },
   "categories": [
     1
@@ -110,9 +110,9 @@
     "послесловие-автора"
   ],
   "visual_checked": false,
-  "edition": "site-draft-11",
+  "edition": "site-draft-12",
   "rendered_table_count": 3,
-  "checked_at": "2026-10-23T10:29:11.173677+03:00",
+  "checked_at": "2026-10-23T11:01:34.972269+03:00",
   "previous_editions": [
     {
       "edition": "site-draft-1",
@@ -196,6 +196,14 @@
       "saved_content_sha256": "80384408ce37d54acd4e2f11b6a2193e87dbc2e9f2e995cc968fc5f7020c3471",
       "commit": "a0713c7",
       "author_response": "R052: исправить авторские цитаты, создать черновик в блоге основного сайта"
+    },
+    {
+      "edition": "site-draft-11",
+      "title": "Методология С.Т.Р.У.К. — способ мыслить и действовать",
+      "source_sha256": "7ffa623644bf85c6e1ca46fff4ef9221aee3236753a6abaa9ada778ef98020cd",
+      "saved_content_sha256": "6170c463d2e45e6d46e82ec1b3fd565a095f152157b1b2e03298b5d235fd1319",
+      "commit": "a11e2fb",
+      "author_response": "R053: три иллюстрации должны штатно редактироваться в WordPress; текст/подписи не менять"
     }
   ],
   "illustration_slots": [],
@@ -206,8 +214,8 @@
   "lock_active_at_write_check": false,
   "owner_confirmed_editor_closed": true,
   "rendered_image_count": 3,
-  "responsive_picture_count": 3,
-  "mobile_art_direction_sources": 2,
+  "responsive_picture_count": 0,
+  "mobile_art_direction_sources": 0,
   "wordpress_media": {
     "functions-map-wide.webp": {
       "id": 88,
@@ -248,7 +256,7 @@
   "narrative_markdown_unchanged": false,
   "image_compositions_checked_at_width": 320,
   "narrative_outside_everyday_example_unchanged": false,
-  "illustration_markup_unchanged": true,
+  "illustration_markup_unchanged": false,
   "r050_checks": {
     "saved_content_sha256": "2f23197fbeeb6cd13c988c768ebe70611fddd0ee4cfea9320a694754b3c7a0b4",
     "source_sha256": "37c318d2606cc1216c3adbed78b0b20e06247bb6681a229bf2dbd8ab3b26affa",
@@ -343,10 +351,58 @@
     "status": "draft",
     "edit_url": "https://yuriystruk.ru/wp-admin/post.php?post=951&action=edit",
     "preview_url": "https://yuriystruk.ru/?p=951&preview=true",
-    "source_sha256": "7ffa623644bf85c6e1ca46fff4ef9221aee3236753a6abaa9ada778ef98020cd",
-    "saved_content_sha256": "ae9bdb18b85f30c051ff597f861b69d4372c72042f9cbccfadfa57a8d95aaf1b",
-    "receipt": "site/struk/production-admin-receipt.json",
+    "source_sha256": "d094cec82912cd332edca9531dbb99dfd75736f08c96b417b66a1c8db40f2d5d",
+    "saved_content_sha256": "95c0607c42138af8cea979770b310f47267506ca2d7cd55d0202113f965edce5",
+    "receipt": "site/struk/native-images-admin-receipt-r053.json",
     "visual_checked": false,
-    "package_and_media_hashes_rechecked": true
+    "package_and_media_hashes_rechecked": true,
+    "native_image_count": 3,
+    "html_image_count": 0
+  },
+  "r053_checks": {
+    "lab": {
+      "sha256": "88f34d31ff77c0fe698ae6313b3467632aed4327d3463ea212b33e87401dbcba",
+      "changed_images": 3,
+      "protected_blocks": 142,
+      "native_ids": [
+        89,
+        90,
+        92
+      ],
+      "status": "draft"
+    },
+    "production": {
+      "status": "NATIVE_IMAGES_PATCH_VERIFIED",
+      "id": 951,
+      "package_sha256": "6c71cbe3fccb3a71fa93654cd18bee1e844a648ca7a1380039197d9ab50bb087",
+      "owner_editor_closed": true,
+      "visual_production_editor_check": "NOT_RUN",
+      "before_sha256": "ae9bdb18b85f30c051ff597f861b69d4372c72042f9cbccfadfa57a8d95aaf1b",
+      "expected_sha256": "95c0607c42138af8cea979770b310f47267506ca2d7cd55d0202113f965edce5",
+      "post_status": "draft",
+      "content_sha256": "95c0607c42138af8cea979770b310f47267506ca2d7cd55d0202113f965edce5",
+      "modified_gmt": "2026-10-23T07:57:52",
+      "checks": {
+        "native_images": 3,
+        "html_blocks": 0,
+        "quotes": 1,
+        "tables": 3,
+        "anchors": 17,
+        "outside_three_fragments_exact": true,
+        "text_caption_alt_unchanged": true,
+        "media_ids": [
+          947,
+          948,
+          950
+        ]
+      },
+      "GET": 4,
+      "POST": 1,
+      "recorded_at": "2026-10-23T07:57:54.158Z"
+    },
+    "native_editor_verification": "site/struk/native-images-r053.json",
+    "source_text_caption_alt_unchanged": true,
+    "source_only_three_media_fragments_and_edition_changed": true,
+    "mobile_policy": "Use existing vertical compositions947/950 on all screens; no picture switch, no added runtime/plugin;946/949 remain in media library."
   }
 }

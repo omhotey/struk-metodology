@@ -172,3 +172,10 @@
 !/site/struk/production-draft.json
 # R052: проверенная квитанция переноса, без секретов.
 !/site/struk/production-admin-receipt.json
+
+# R053: только проверенные native-иллюстрации, узкий пакет и квитанция; без доступа/секретов.
+!/site/struk/verify-native-images.cjs
+!/site/struk/native-images-r053.json
+!/site/struk/native-images-patch-r053.json
+!/site/struk/native-images-admin-receipt-r053.json
+!/site/struk/NATIVE-IMAGES-R053.md
