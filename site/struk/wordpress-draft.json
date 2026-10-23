@@ -335,5 +335,18 @@
     "table_count": 3,
     "image_count": 3
   },
-  "production_status": "prepared_access_required"
+  "production_status": "draft_created_verified_by_ys_sysadmin",
+  "production": {
+    "site": "https://yuriystruk.ru",
+    "wordpress_id": 951,
+    "post_type": "post",
+    "status": "draft",
+    "edit_url": "https://yuriystruk.ru/wp-admin/post.php?post=951&action=edit",
+    "preview_url": "https://yuriystruk.ru/?p=951&preview=true",
+    "source_sha256": "7ffa623644bf85c6e1ca46fff4ef9221aee3236753a6abaa9ada778ef98020cd",
+    "saved_content_sha256": "ae9bdb18b85f30c051ff597f861b69d4372c72042f9cbccfadfa57a8d95aaf1b",
+    "receipt": "site/struk/production-admin-receipt.json",
+    "visual_checked": false,
+    "package_and_media_hashes_rechecked": true
+  }
 }

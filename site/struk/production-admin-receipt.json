@@ -1,0 +1,98 @@
+{
+  "stage": "struk-production-draft",
+  "status": "DRAFT_CREATED_VERIFIED",
+  "source_sha256": "7ffa623644bf85c6e1ca46fff4ef9221aee3236753a6abaa9ada778ef98020cd",
+  "package_sha256": "e5f02bf70bf26711df546ed57fc125c93027618e10e944e2d28cc15bdab61fcc",
+  "uploads": [
+    {
+      "id": 946,
+      "url": "https://yuriystruk.ru/wp-content/uploads/2026/10/struk-functions-map-wide.webp",
+      "filename": "struk-functions-map-wide.webp",
+      "sha256": "e6302962c01e9170623370ebfd3277a7c7873dfb35a13305f91bb118b942f009"
+    },
+    {
+      "id": 947,
+      "url": "https://yuriystruk.ru/wp-content/uploads/2026/10/struk-functions-map-mobile.webp",
+      "filename": "struk-functions-map-mobile.webp",
+      "sha256": "66ee3f1df81d2427326c5c62b95c5d93b1a27fe42e405f5ab5ad8198df250f20"
+    },
+    {
+      "id": 948,
+      "url": "https://yuriystruk.ru/wp-content/uploads/2026/10/struk-release-story.webp",
+      "filename": "struk-release-story.webp",
+      "sha256": "b43a2c8b4aa18b0e8a294b59e6099589ad46088693aedcef58c2c5e2f081b1c6"
+    },
+    {
+      "id": 949,
+      "url": "https://yuriystruk.ru/wp-content/uploads/2026/10/struk-product-stories-wide.webp",
+      "filename": "struk-product-stories-wide.webp",
+      "sha256": "a0b405bc635b9ae90666928787cfd0e71a9b2840f0942bd011336fbe4a10c301"
+    },
+    {
+      "id": 950,
+      "url": "https://yuriystruk.ru/wp-content/uploads/2026/10/struk-product-stories-mobile.webp",
+      "filename": "struk-product-stories-mobile.webp",
+      "sha256": "86feb4f61551bd372d18b86a040c8e4292ed61ddbd9d5ba303e85d9e7a19c5de"
+    }
+  ],
+  "attempts": [
+    {
+      "kind": "media",
+      "filename": "struk-functions-map-wide.webp",
+      "status": "VERIFIED"
+    },
+    {
+      "kind": "media",
+      "filename": "struk-functions-map-mobile.webp",
+      "status": "VERIFIED"
+    },
+    {
+      "kind": "media",
+      "filename": "struk-release-story.webp",
+      "status": "VERIFIED"
+    },
+    {
+      "kind": "media",
+      "filename": "struk-product-stories-wide.webp",
+      "status": "VERIFIED"
+    },
+    {
+      "kind": "media",
+      "filename": "struk-product-stories-mobile.webp",
+      "status": "VERIFIED"
+    },
+    {
+      "kind": "draft-post",
+      "status": "VERIFIED"
+    }
+  ],
+  "published": false,
+  "visual_acceptance": "NOT_RUN",
+  "category_policy": "WordPress existing default; no category created",
+  "existing_category_ids": [
+    1
+  ],
+  "id": 951,
+  "content_sha256": "ae9bdb18b85f30c051ff597f861b69d4372c72042f9cbccfadfa57a8d95aaf1b",
+  "checks": {
+    "type": "post",
+    "status": "draft",
+    "exact_content_raw": true,
+    "no_localhost": true,
+    "no_placeholders": true,
+    "pictures": 3,
+    "quotes": 1,
+    "tables": 3,
+    "anchors": 17
+  },
+  "edit_url": "https://yuriystruk.ru/wp-admin/post.php?post=951&action=edit",
+  "preview_url": "https://yuriystruk.ru/?p=951&preview=true",
+  "categories": [
+    1
+  ],
+  "recorded_at": "2026-10-23T07:34:33.243Z",
+  "counts": {
+    "GET": 14,
+    "POST": 6
+  }
+}

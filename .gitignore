@@ -170,3 +170,5 @@
 
 # R052: проверенный пакет одной статьи для основного сайта, без учётных данных.
 !/site/struk/production-draft.json
+# R052: проверенная квитанция переноса, без секретов.
+!/site/struk/production-admin-receipt.json
