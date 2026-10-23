@@ -4,8 +4,8 @@
   "status": "draft",
   "title": "Методология С.Т.Р.У.К. — способ мыслить и действовать",
   "source_id": "struk-site-post",
-  "source_sha256": "a39b1f0eac3da2fa550bc507976b76cbe532eca03dd0a5f1890fb181b03a8318",
-  "saved_content_sha256": "b91f7b85b1ba008ad4411d6bd4d3a679674de386d44f26b7df17bded5f9329c7",
+  "source_sha256": "37c318d2606cc1216c3adbed78b0b20e06247bb6681a229bf2dbd8ab3b26affa",
+  "saved_content_sha256": "2f23197fbeeb6cd13c988c768ebe70611fddd0ee4cfea9320a694754b3c7a0b4",
   "saved_content_matches": true,
   "core_block_counts": {
     "core/paragraph": 54,
@@ -110,10 +110,9 @@
     "послесловие-автора"
   ],
   "visual_checked": false,
-  "edition": "site-draft-8",
-  "rendered_word_sequence_matches": true,
+  "edition": "site-draft-9",
   "rendered_table_count": 3,
-  "checked_at": "2026-10-23T01:15:20.641325+03:00",
+  "checked_at": "2026-10-23T10:08:41.726425+03:00",
   "previous_editions": [
     {
       "edition": "site-draft-1",
@@ -173,14 +172,21 @@
       "saved_content_sha256": "8945afdee6c03970a59fb70608b56171ca6c5a2d0edf94d067944a302bfed6cb",
       "commit": "9a4871c",
       "author_response": "R049: создать и сразу вставить схему и сюжетные иллюстрации; текст не менять"
+    },
+    {
+      "edition": "site-draft-8",
+      "title": "Методология С.Т.Р.У.К. — способ мыслить и действовать",
+      "source_sha256": "a39b1f0eac3da2fa550bc507976b76cbe532eca03dd0a5f1890fb181b03a8318",
+      "saved_content_sha256": "b91f7b85b1ba008ad4411d6bd4d3a679674de386d44f26b7df17bded5f9329c7",
+      "commit": "278d067",
+      "author_response": "R050: визуальная проверка; бытовой пример о грязных ботинках в помещении"
     }
   ],
   "illustration_slots": [],
   "rendered_quote_count": 3,
   "rendered_illustration_slot_count": 0,
   "illustrations_created": true,
-  "narrative_blocks_unchanged": true,
-  "preserved_narrative_blocks_sha256": "cde1b1e0833efe98e7cb232ee41ea4263de726ac80325d4aa969808a02c85be8",
+  "narrative_blocks_unchanged": false,
   "lock_active_at_write_check": false,
   "owner_confirmed_editor_closed": true,
   "rendered_image_count": 3,
@@ -223,15 +229,42 @@
       "sha256": "86feb4f61551bd372d18b86a040c8e4292ed61ddbd9d5ba303e85d9e7a19c5de"
     }
   },
-  "narrative_markdown_unchanged": true,
+  "narrative_markdown_unchanged": false,
   "image_compositions_checked_at_width": 320,
-  "pending_update": {
-    "request": "R050",
-    "edition": "site-draft-9",
+  "narrative_outside_everyday_example_unchanged": true,
+  "illustration_markup_unchanged": true,
+  "r050_checks": {
+    "saved_content_sha256": "2f23197fbeeb6cd13c988c768ebe70611fddd0ee4cfea9320a694754b3c7a0b4",
     "source_sha256": "37c318d2606cc1216c3adbed78b0b20e06247bb6681a229bf2dbd8ab3b26affa",
-    "status": "local_example_prepared_wordpress_blocked_by_active_editor",
-    "protected_markdown_outside_example_unchanged": true,
-    "illustration_markup_unchanged": true,
-    "browser_status": "Yandex window observed; navigation stopped by Computer Use because URL policy enforcement is not yet supported for the current Windows browser. Article and mobile visual QA unavailable."
+    "status": "draft",
+    "changed_example_blocks": 3,
+    "protected_block_count": 146,
+    "protected_blocks_sha256": "c8c963a56052d82df1f3b3824dbdc532027fcbc153a74bc8d151514ffe0898f1",
+    "image_count": 3,
+    "figure_count": 3,
+    "mobile_sources": 2,
+    "table_count": 3,
+    "quote_count": 3,
+    "heading_anchors": [
+      "назначение-и-область-применения",
+      "как-устроен-струк",
+      "с-ситуация",
+      "т-требования",
+      "р-решение",
+      "у-управление",
+      "к-контроль",
+      "как-связаны-функции",
+      "как-применять-струк-к-своей-задаче",
+      "примеры-применения-в-продуктовом-управлении",
+      "диагностика-продукта-понять-что-мешает-результату",
+      "создание-нового-продукта-связать-замысел-устройство-и-запуск",
+      "проблемный-продукт-вернуть-управляемость-и-провести-изменения",
+      "испачканная-обувь-довести-простое-дело-до-конца",
+      "сравнение-с-другими-подходами",
+      "границы-применения",
+      "послесловие-автора"
+    ],
+    "browser_status": "Computer Use stopped navigation: browser URL policy enforcement is not yet supported for the current Windows browser (Yandex). Article/mobile visual QA unavailable.",
+    "layout_changed": false
   }
 }
