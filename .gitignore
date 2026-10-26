@@ -183,3 +183,26 @@
 # 26.10.2026: проверенная историческая маркировка общей области СТРУК, без принятого комплекта PL.
 !/methodology/FOUNDATION.md
 !/research/STRUK-HISTORICAL-SCOPE-20261026.md
+
+# 26.10.2026: проверенные документы ревизии Product Lead и границы PL Navigator.
+!/methodology/FIRST-RESULT-ACCEPTANCE.md
+!/methodology/revision-20261026/
+!/integrations/PL-NAVIGATOR/
+!/integrations/SMART/
+!/methodology/revision-20261026/ASSESSMENT.md
+!/methodology/revision-20261026/CURRENT-MAP.md
+!/methodology/revision-20261026/DECISION-CHECKS.md
+!/methodology/revision-20261026/PROCESS.md
+!/methodology/revision-20261026/README.md
+!/methodology/revision-20261026/RESULTS.md
+!/methodology/revision-20261026/SERVICE.md
+!/integrations/PL-NAVIGATOR/ACCEPTANCE.md
+!/integrations/PL-NAVIGATOR/CHECK-20261026.json
+!/integrations/PL-NAVIGATOR/LESSON-SEARCH-BOUNDARY-001.md
+!/integrations/PL-NAVIGATOR/PLAN.md
+!/integrations/PL-NAVIGATOR/PROTOCOL.md
+!/integrations/PL-NAVIGATOR/REVIEW.md
+!/integrations/PL-NAVIGATOR/SELF-CASE-REVIEW-001.md
+!/integrations/PL-NAVIGATOR/SOURCE.md
+!/integrations/PL-NAVIGATOR/STATUS.md
+!/integrations/SMART/PROTOCOL.md
