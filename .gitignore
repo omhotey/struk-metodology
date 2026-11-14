@@ -209,3 +209,14 @@
 
 # Главный читательский вход репозитория.
 !/README.md
+
+# Переносимая сборка скилла и отчёт проверки, без расширения области Git.
+!/struk-skill-product/
+!/struk-skill-product/README.md
+!/struk-skill-product/struk/
+!/struk-skill-product/struk/SKILL.md
+!/struk-skill-product/struk/agents/
+!/struk-skill-product/struk/agents/openai.yaml
+!/struk-skill-product/struk/references/
+!/struk-skill-product/struk/references/goal-check.md
+!/research/STRUK-ROLE-PORTABLE-20261114.md
